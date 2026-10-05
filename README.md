@@ -2222,7 +2222,7 @@ Here's an awesome list of AI agents:
 
 ### Heym
 <div><a href="https://github.com/heymrun/heym"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/heymrun/heym"><img src="https://img.shields.io/github/stars/heymrun/heym?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/heymrun">@heymrun</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/mbakgun">@mbakgun</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/704">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/704">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/heymrun">@heymrun</a></p>
 <p>🤖 AI Agents | ⚙️ Development Frameworks | 🔌 MCP Servers | 👁️ Observability Frameworks</p>
 
 <p>Heym is a self-hosted runtime for building and orchestrating AI agents and deterministic workflows, with MCP tools, human approval checkpoints, execution tracing, evaluations, and model cost tracking. Source-available under MIT with the Commons Clause.</p>
